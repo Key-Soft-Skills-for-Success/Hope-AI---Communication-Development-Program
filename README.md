@@ -5,9 +5,9 @@
 | Day | Task | Topic |
 |-----------|-----------|-----------|
 | Day 1 | Task 1 | Self-Introduction(Name, Background, Why Learning AI) |
-| Day 2 | Task 2 | Speak 5 Sentences About Yesterday's Routine |
+| Day 2 | Task 2 | About Yesterday's Routine |
 | Day 3 | Task 3 | Tell Me About Your Daily Routine |
-| Day 4 | Task 4 | 5 Sentences About What You Will Do Tomorrow |
+| Day 4 | Task 4 | About What You Will Do Tomorrow |
 | Day 5 | Task 5 | Your Favorite Hobby |
 | Day 6 | Task 6 | Read One English Paragraph Aloud |
 | Day 7 | Task 7 | Talk About One Think You Learned or Improved This Week |
