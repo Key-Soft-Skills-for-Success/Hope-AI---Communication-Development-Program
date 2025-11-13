@@ -15,7 +15,7 @@
 | Day 9 | Task 9 | Learn 10 Workplace Basic Vocabulary Words |
 | Day 10 | Task 10 | Learn 10 Teamwork Words |
 | Day 11 | Task 11 | Learn 10 Positive Personality Words |
-| Day 12 | Task 12 | Common Interview Word used in sentences |
+| Day 12 | Task 12 | Common Interview Word Used In Sentences |
 | Day 13 | Task 13 | One Thing You Learned or Improved This Week |
 | Day 14 | Task 14 | Google Meet Discussion on Progress and Queries |
 | Day 15 | Task 15 | Level 1 - Completed |
