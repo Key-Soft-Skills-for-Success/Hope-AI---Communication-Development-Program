@@ -2,7 +2,7 @@
 
 ### Level 1
 
-| Days | Task | Topic |
+| Day | Task | Topic |
 |-----------|-----------|-----------|
 | Day 1 | Task 1 | Self-Introduction(Name, Background, Why Learning AI) |
 | Day 2 | Task 2 | Speak 5 Sentences About Yesterday's Routine |
