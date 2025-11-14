@@ -2,7 +2,7 @@
 
 ### Level 1: Improving your Communication
  - Learning how to introduce yourself
- - Frame Sentences
+ - Frame sentences
  - Build your daily speaking confidence
 
 | Day | Task | Topic |
