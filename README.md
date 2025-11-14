@@ -1,5 +1,8 @@
 # Hope AI - Communication Development Program
 
+A 15-day English communication and soft skills journey focused on self-introduction, daily routines, polite expressions, teamwork,
+personality development, and workplace communication.
+
 ### Level 1: Improving your Communication
  - Learning how to introduce yourself
  - Frame sentences
