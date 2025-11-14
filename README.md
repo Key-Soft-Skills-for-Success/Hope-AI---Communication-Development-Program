@@ -1,4 +1,4 @@
-## Hope AI - Communication Development Program
+## <center> Hope AI - Communication Development Program </center>
 
 This 15-day English Communication Program is designed to build confidence in speaking through daily practical tasks. It covers self-introduction, 
 daily routines, polite expressions, teamwork vocabulary, personality development, and workplace communication. By the end of the program, learners 
