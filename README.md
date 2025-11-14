@@ -1,6 +1,9 @@
 # Hope AI - Communication Development Program
 
-### Level 1
+### Level 1:
+    - Learning how to introduce yourself
+    - Frame Sentences
+    - Build your daily speaking confidence
 
 | Day | Task | Topic |
 |-----------|-----------|-----------|
