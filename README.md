@@ -33,6 +33,6 @@ Understanding tenses helps you
 | Day 12 | Task 12 | Common Interview Word Used In Sentences |
 | Day 13 | Task 13 | One Thing You Learned or Improved This Week |
 | Day 14 | Task 14 | Google Meet Discussion on Progress and Queries |
-| Day 15 | Task 15 | Level 1 - Completed |
+| Day 15 | Task 15 | <b> Level 1 - Completed </b> |
 | Day 16 | Task 16 | Simple Present Tense |
 
