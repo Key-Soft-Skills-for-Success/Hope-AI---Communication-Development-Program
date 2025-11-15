@@ -9,10 +9,10 @@ develop clear sentence formation skills, better fluency, and a strong foundation
  - Frame sentences
  - Build your daily speaking confidence
 
-### Level 2: Tenses, The Backbone of Strong Communication
+### ✅ Level 2: Tenses, The Backbone of Strong Communication
 
 Understanding tenses helps you
- - to speak clearly
+ - speak clearly
  - express time correctly
  - sound more fluent
  - be professional in interviews and daily conversations
