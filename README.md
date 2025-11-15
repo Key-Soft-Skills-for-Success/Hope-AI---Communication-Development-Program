@@ -9,6 +9,14 @@ develop clear sentence formation skills, better fluency, and a strong foundation
  - Frame sentences
  - Build your daily speaking confidence
 
+### Level 2: Tenses, The Backbone of Strong Communication
+
+Understanding tenses helps you
+ - to speak clearly
+ - express time correctly
+ - sound more fluent
+ - be professional in interviews and daily conversations
+
 | Day | Task | Topic |
 |-----------|-----------|-----------|
 | Day 1 | Task 1 | Self-Introduction(Name, Background, Why Learning AI) |
@@ -26,4 +34,5 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 | Day 13 | Task 13 | One Thing You Learned or Improved This Week |
 | Day 14 | Task 14 | Google Meet Discussion on Progress and Queries |
 | Day 15 | Task 15 | Level 1 - Completed |
+| Day 16 | Task 16 | Simple Present Tense |
 
