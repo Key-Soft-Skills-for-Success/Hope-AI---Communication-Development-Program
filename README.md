@@ -1,4 +1,4 @@
-## Hope AI - Communication Development Program
+## <p align="center"><strong>  Hope AI - Communication Development Program </strong></p>
 
 <p align = "justify" >This English Communication Development Program is designed to build confidence in speaking through daily practical tasks. It covers self-introduction, 
 daily routines, polite expressions, teamwork vocabulary, personality development, and workplace communication. By the end of the program, learners 
