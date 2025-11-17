@@ -1,8 +1,8 @@
 ## Hope AI - Communication Development Program
 
-This 15-day English Communication Program is designed to build confidence in speaking through daily practical tasks. It covers self-introduction, 
+<p align = "justify" >This English Communication Development Program is designed to build confidence in speaking through daily practical tasks. It covers self-introduction, 
 daily routines, polite expressions, teamwork vocabulary, personality development, and workplace communication. By the end of the program, learners 
-develop clear sentence formation skills, better fluency, and a strong foundation for professional communication.
+develop clear sentence formation skills, better fluency, and a strong foundation for professional communication. </p>
 
 ### ✅ Level 1: Improving Your English Communication
  - Learning how to introduce yourself
