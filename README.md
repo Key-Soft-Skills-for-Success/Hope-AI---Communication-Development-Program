@@ -11,7 +11,7 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 
 ### ✅ Level 2: Tenses, The Backbone of Strong Communication
 
- Understanding tenses helps you to,
+ Understanding tenses helps you to:
   - Speak clearly
   - Express time correctly
   - Sound more fluent
@@ -36,4 +36,5 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 | Day 15 | Task 15 | <b> Level 1 - Completed </b> |
 | Day 16 | Task 16 | Simple Present Tense |
 | Day 17 | Task 17 | Present Continous Tense |
+| Day 18 | Task 18 | Present Perfect Tense |
 
