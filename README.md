@@ -21,7 +21,7 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 
 | Day | Task | Topic | Audio |
 |-----------|-----------|-----------|----|
-| Day 1 | Task 1 | Self-Introduction (Name, Background, Why Learning AI) | [Audio](Task Audio Files/Day 1 Task - Self Introduction.mp3)
+| Day 1 | Task 1 | Self-Introduction (Name, Background, Why Learning AI) | [Audio](Task Audio Files/Day 1 Task - Self Introduction.mp3)  |
 | Day 2 | Task 2 | About Yesterday's Routine |
 | Day 3 | Task 3 | Tell Me About Your Daily Routine |
 | Day 4 | Task 4 | About What You Will Do Tomorrow |
