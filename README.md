@@ -17,6 +17,8 @@ develop clear sentence formation skills, better fluency, and a strong foundation
   - Sound more fluent
   - Be professional in interviews and daily conversations
 
+<div align="center">
+
 | Day | Task | Topic |
 |-----------|-----------|-----------|
 | Day 1 | Task 1 | Self-Introduction (Name, Background, Why Learning AI) |
@@ -38,4 +40,6 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 | Day 17 | Task 17 | Present Continous Tense |
 | Day 18 | Task 18 | Present Perfect Tense |
 | Day 19 | Task 19 | Present Perfect Continuous Tense |
+
+</div>
 
