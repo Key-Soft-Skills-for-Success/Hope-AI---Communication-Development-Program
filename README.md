@@ -40,6 +40,7 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 | Day 17 | Task 17 | Present Continuous Tense |
 | Day 18 | Task 18 | Present Perfect Tense |
 | Day 19 | Task 19 | Present Perfect Continuous Tense |
+| Day 20 | Task 20 | Simple Past Tense |
 
 </div>
 
