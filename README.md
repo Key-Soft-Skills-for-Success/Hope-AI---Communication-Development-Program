@@ -36,7 +36,7 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 | Day 13 | Task 13 | One Thing You Learned or Improved This Week |
 | Day 14 | Task 14 | Google Meet Discussion on Progress and Queries |
 | Day 15 | Task 15 | <b> Level 1 - Completed </b> |
-| Day 16 | Task 16 | Describe Your Job Role or A Class Schedule in Simple Present Tense |
+| Day 16 | Task 16 | <s> Describe Your Job Role or A Class Schedule in Simple Present Tense</s> |
 | Day 17 | Task 17 | Describe What Your Team is Working on Currently in Present Continuous Tense |
 | Day 18 | Task 18 | Share What You Have Learned in Hope AI So Far in Present Perfect Tense |
 | Day 19 | Task 19 | Explain How Long You Have Been Learning English OR AI in Present Perfect Continuous Tense |
