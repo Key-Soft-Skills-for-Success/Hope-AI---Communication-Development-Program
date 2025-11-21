@@ -36,13 +36,13 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 | Day 13 | Task 13 | One Thing You Learned or Improved This Week |
 | Day 14 | Task 14 | Google Meet Discussion on Progress and Queries |
 | Day 15 | Task 15 | <b> Level 1 - Completed </b> |
-| Day 16 | Task 16 | Describe Your Job Role or A Class Schedule IN Simple Present Tense |
-| Day 17 | Task 17 | Describe What Your Team IS Working on Currently IN Present Continuous Tense |
-| Day 18 | Task 18 | Share What You Have Learned IN Hope AI So Far IN Present Perfect Tense |
-| Day 19 | Task 19 | Explain How Long You Have Been Learning English OR AI IN Present Perfect Continuous Tense |
-| Day 20 | Task 20 | Narrate A Short Past Experience That Taught You Something IN Simple Past Tense |
-| Day 21 | Task 21 | Describe A Moment You Remember Clearly FROM Your Past Day IN Past Continuous Tense |
-| Day 22 | Task 22 | Tell A Story Using "had done" Events IN Past Perfect Tense |
+| Day 16 | Task 16 | Describe Your Job Role or A Class Schedule in Simple Present Tense |
+| Day 17 | Task 17 | Describe What Your Team IS Working on Currently in Present Continuous Tense |
+| Day 18 | Task 18 | Share What You Have Learned IN Hope AI So Far in Present Perfect Tense |
+| Day 19 | Task 19 | Explain How Long You Have Been Learning English OR AI in Present Perfect Continuous Tense |
+| Day 20 | Task 20 | Narrate A Short Past Experience That Taught You Something in Simple Past Tense |
+| Day 21 | Task 21 | Describe A Moment You Remember Clearly FROM Your Past Day in Past Continuous Tense |
+| Day 22 | Task 22 | Tell A Story Using "had done" Events in Past Perfect Tense |
 
 </div>
 
