@@ -41,13 +41,13 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 | Day 17 | Task 17 | Present Continuous Tense |
 | |  | Describe Your Job Role or A Class Schedule  |
 | Day 18 | Task 18 | Present Perfect Tense |
-| |  | Share What You Have Learned in Hope AI So Far  |
+| |  | Share What You Have Learned in Hope AI so Far  |
 | Day 19 | Task 19 | Present Perfect Continuous Tense |
-| |  | Explain How Long You Have Been Learning English OR AI  |
+| |  | Explain How Long You Have Been Learning English or AI  |
 | Day 20 | Task 20 | Simple Past Tense |
 | |  | Narrate A Short Past Experience That Taught You Something  |
 | Day 21 | Task 21 | Past Continuous Tense |
-| |  | Describe A Moment You Remember Clearly FROM Your Past Day  |
+| |  | Describe A Moment You Remember Clearly from Your Past Day  |
 | Day 22 | Task 22 | Past Perfect Tense |
 | |  | Tell A Story Using "had done" Events  |
 
