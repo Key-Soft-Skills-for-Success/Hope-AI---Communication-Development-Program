@@ -50,6 +50,8 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 | |  | Describe a Moment You Remember Clearly from Your Past Day  |
 | Day 22 | Task 22 | Past Perfect Tense |
 | |  | Tell a Story Using "had done" Events  |
+| Day 23 | Task 23 | Past Perfect Continuous Tense |
+| |  | Describe What You Have Been Doing Before Joining HOPE AI  |
 
 </div>
 
