@@ -52,6 +52,8 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 | |  | Tell a Story Using "had done" Events  |
 | Day 23 | Task 23 | Past Perfect Continuous Tense |
 | |  | Describe What You Have Been Doing Before Joining HOPE AI  |
+| Day 24 | Task 24 | Simple Future Tense |
+| |  | Share Your Career Plan For The Next Year  |
 
 </div>
 
