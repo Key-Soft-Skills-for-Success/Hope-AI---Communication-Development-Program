@@ -54,6 +54,8 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 | |  | Describe What You Have Been Doing Before Joining HOPE AI  |
 | Day 24 | Task 24 | Simple Future Tense |
 | |  | Share Your Career Plan For The Next Year  |
+| Day 25 | Task 25 | Future Continuous Tense |
+| | | Describe What You Will Be Doing This Sunday |
 
 </div>
 
