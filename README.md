@@ -56,6 +56,8 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 | |  | Share Your Career Plan For The Next Year  |
 | Day 25 | Task 25 | Future Continuous Tense |
 | | | Describe What You Will Be Doing This Sunday |
+| Day 26 | Task 26 | Future Perfect Tense |
+| | | Tell What You Will Have Achieved By Year End |
 
 </div>
 
