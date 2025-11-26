@@ -58,6 +58,8 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 | | | Describe What You Will Be Doing This Sunday |
 | Day 26 | Task 26 | Future Perfect Tense |
 | | | Tell What You Will Have Achieved By Year End |
+| Day 27 | Task 27 | Future Perfect Continuous Tense |
+| | | Say How Long You Will Have Been Learning AI by Next Year |
 
 </div>
 
