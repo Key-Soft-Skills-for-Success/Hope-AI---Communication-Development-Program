@@ -60,6 +60,9 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 | | | Tell What You Will Have Achieved By Year End |
 | Day 27 | Task 27 | Future Perfect Continuous Tense |
 | | | Say How Long You Will Have Been Learning AI by Next Year |
+| Day 28 | Task 28 | <b> Level 2 Completed </b> |
+| | | Tough Challenge in Life and How You Solved It |
+
 
 </div>
 
