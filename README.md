@@ -62,6 +62,11 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 | | | Say How Long You Will Have Been Learning AI by Next Year |
 | Day 28 | Task 28 | <b> Level 2 Completed </b> |
 | | | Tough Challenge in Life and How You Solved It |
+| Day 29 | Task 29 | Record & Speak About Your Ideal Role Model |
+| Day 30 | Task 30 | Daily Studywork Routine |
+| Day 32 | Task 32 | Why Did You Choose the AI Field |
+| Day 33 | Task 33 | Favorite AI Topic |
+| Day 34 | Task 34 | Introduce Yourself |
 
 
 </div>
