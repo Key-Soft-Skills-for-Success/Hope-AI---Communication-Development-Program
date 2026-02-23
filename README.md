@@ -67,7 +67,18 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 | Day 32 | Task 32 | Why Did You Choose the AI Field |
 | Day 33 | Task 33 | Favorite AI Topic |
 | Day 34 | Task 34 | Introduce Yourself |
-
+| Day 35 | Task 35 | Explain Your Technical Skills Elaborately |
+| Day 36 | Task 36 | Explain Any One of Your Project Briefly |
+| Day 37 | Task 37 | Biggest Achievement |
+| Day 38 | Task 38 | Why Should We Hire You |
+| Day 39 | Task 39 | Prioritize Tasks When Managing Multiple Responsibilities |
+| Day 40 | Task 40 | How Do You Stay Updated with Industry Trends or New Technologies |
+| Day 41 | Task 41 | How Do You Handle Feedback or Criticism |
+| Day 42 | Task 42 | Why Did You Choose to Shift Your Career|
+| Day 43 | Task 43 | How Do You Handle Feedback or Criticism |
+| Day 44 | Task 44 | Key Strengths and Weaknessess |
+| Day 45 | Task 45 | Learning New Things and How Confident You Feel Than Day 1 |
+| Day 46 | Task 46 | <b> Level 3 Completed </b> |
 
 </div>
 
