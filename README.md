@@ -60,8 +60,8 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 | | | Tell What You Will Have Achieved By Year End |
 | Day 27 | Task 27 | Future Perfect Continuous Tense |
 | | | Say How Long You Will Have Been Learning AI by Next Year |
-| Day 28 | Task 28 | <b> Level 2 Completed </b> |
-| | | Tough Challenge in Life and How You Solved It |
+| Day 28 |         | <b> Level 2 Completed </b> |
+| | Task 28 | Tough Challenge in Life and How You Solved It |
 | Day 29 | Task 29 | Record & Speak About Your Ideal Role Model |
 | Day 30 | Task 30 | Daily Studywork Routine |
 | Day 32 | Task 32 | Why Did You Choose the AI Field |
@@ -78,7 +78,7 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 | Day 43 | Task 43 | How Do You Handle Feedback or Criticism |
 | Day 44 | Task 44 | Key Strengths and Weaknessess |
 | Day 45 | Task 45 | Learning New Things and How Confident You Feel Than Day 1 |
-| Day 46 | Task 46 | <b> Level 3 Completed </b> |
+| Day 46 |         | <b> Level 3 Completed </b> |
 
 </div>
 
