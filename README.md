@@ -76,7 +76,7 @@ develop clear sentence formation skills, better fluency, and a strong foundation
 | Day 41 | Task 41 | How Do You Handle Feedback or Criticism |
 | Day 42 | Task 42 | Why Did You Choose to Shift Your Career|
 | Day 43 | Task 43 | How Do You Handle Feedback or Criticism |
-| Day 44 | Task 44 | Key Strengths and Weaknessess |
+| Day 44 | Task 44 | Key Strengths and Weaknesses |
 | Day 45 | Task 45 | Learning New Things and How Confident You Feel Than Day 1 |
 | Day 46 |         | <b> Level 3 Completed </b> |
 
